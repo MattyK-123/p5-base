@@ -1,6 +1,6 @@
 ﻿# P5 Base
 
-A minimal P5.js project setup to quickly get started with creating interactive visual applications. This template is ideal for prototyping and exploring creative coding ideas.
+P5 Base is a minimal P5.js project setup to quickly get started with creating interactive visual applications. This template is ideal for prototyping and exploring creative coding ideas.
 
 ## Features
 
